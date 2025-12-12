@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.DS_Store
+terraform.zip
+terra.py
+utils.py
+s3_backup.py
